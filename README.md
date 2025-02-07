@@ -12,6 +12,10 @@ A simple **shopping cart** application built with **JavaScript, HTML, and CSS**,
 ✔️ Clean, modern **UI design**  
 
 ---
+## Screenshots
+![Shopping Cart](https://github.com/miryalakavya/Shopping-cart/blob/main/Screenshot/Sceenshot.png)
+
+---
 
 ## Technologies Used
 
@@ -83,5 +87,10 @@ This shopping cart is **fully responsive** across all screen sizes.
 ✔️ **Desktop**: Two-column layout  
 ✔️ **Tablet**: Adjusted flexible layout  
 ✔️ **Mobile**: Stacked layout with full-width buttons  
+
+### **Responsive Design Preview**
+| Desktop 💻 | Mobile 📱 |
+|------------|----------|
+| ![Desktop View](![Shopping Cart](https://github.com/miryalakavya/Shopping-cart/blob/main/Screenshot/Sceenshot.png)) | ![Mobile View](https://github.com/miryalakavya/Shopping-cart/blob/main/Screenshot/mobile.png) |
 
 

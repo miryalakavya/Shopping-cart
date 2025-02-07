@@ -13,12 +13,6 @@ A simple **shopping cart** application built with **JavaScript, HTML, and CSS**,
 
 ---
 
-## Screenshot
-
-![Shopping Cart](screenshot.png)
-
----
-
 ## Technologies Used
 
 - **HTML5** - Structuring the UI  
@@ -90,8 +84,4 @@ This shopping cart is **fully responsive** across all screen sizes.
 ✔️ **Tablet**: Adjusted flexible layout  
 ✔️ **Mobile**: Stacked layout with full-width buttons  
 
-### Responsive Design Preview**
-| Desktop | Mobile |
-|------------|----------|
-| ![Desktop View](desktop.png) | ![Mobile View](mobile.png) |
 
